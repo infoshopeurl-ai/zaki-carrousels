@@ -1,0 +1,7 @@
+Nvidia publie Nemotron 3.5 Transcribe en open source : un modèle qui transcrit des enregistrements audio en 40 langues, jusqu'à 1 h, en distinguant jusqu'à 8 voix. Seule limite : pas de temps réel.
+
+Ce que j'en retiens : transcrire une réunion ou un podcast n'est plus réservé aux outils payants. Un signe à suivre quand on débute.
+
+Tu transcrirais quoi en premier ? Enregistre ce post pour le retrouver.
+
+#ia #intelligenceartificielle #apprendrelia #zakiapprend #outilsia #transcription #nvidia #opensource

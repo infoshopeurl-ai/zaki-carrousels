@@ -1,0 +1,7 @@
+En octobre, un pirate agissant seul a pénétré plus de 100 sites d'entreprises, dont John Deere, en confiant le travail à des agents IA. Coût estimé : environ 5 000 $ de tokens.
+
+Ce que j'en retiens : ce qui demandait une équipe d'experts pendant des semaines peut maintenant être automatisé. L'IA ne sert pas qu'à gagner du temps, elle aide aussi les attaquants.
+
+De mon côté, je fais les bases ce soir : mises à jour, double authentification, un mot de passe par compte. Et toi, tu en es où ? Enregistre ce post pour ta checklist sécurité.
+
+#ia #intelligenceartificielle #apprendrelia #zakiapprend #astuceia #cybersecurite #agentsia #securiteinformatique

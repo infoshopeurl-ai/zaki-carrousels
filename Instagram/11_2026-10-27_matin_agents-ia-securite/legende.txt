@@ -1,0 +1,7 @@
+Chaque accès donné à un agent IA (mails, Drive, compte pro) est une porte ouverte. Gartner estime qu'1 faille de sécurité sur 4 passera par des agents IA d'ici 2028.
+
+Mes 3 règles : donner le minimum d'accès, retirer l'accès d'un outil que j'abandonne, et vérifier régulièrement les applis connectées.
+
+Enregistre ce post et fais le tri dans tes accès cette semaine.
+
+#ia #intelligenceartificielle #apprendrelia #zakiapprend #outilsia #cybersecurite #securite #agentsia
